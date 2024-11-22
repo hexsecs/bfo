@@ -8,7 +8,7 @@ Welcome to **BachCAN-Fuzzer Overdrive**, the CAN bus fuzzing tool that *Takes Ca
 - **Let It Ride Configurations** – Offers custom fuzzing parameters to suit any protocol, with just the right amount of distortion for every message.
 - **Rollin' Fuzz and Sequential Attacks** – Unleash a series of fuzz attacks in rapid succession to keep the system guessing.
 - **Takin' Care of Buses** – Automatic CAN bus detection and adaptive response to avoid interruption, keeping the fuzz flow smooth.
-- **Throttle Control** – Manage the intensity of your fuzzing with a slider that ranges from a soft hum to a full *Four Wheel Drive* fuzz assault.
+- **Volume Control** – Manage the intensity of your fuzzing with a slider that ranges from a soft hum to a full *Four Wheel Drive* fuzz assault.
 - **🔨 Sledgehammer Mode** - For those times when a gentle nudge just won’t cut it, Sledgehammer Mode brings the ultimate brute-force fuzzing approach. This feature doesn’t just knock on the door—it kicks it down, firing off a relentless sequence of randomized, malformed, and high-frequency CAN frames designed to expose even the toughest vulnerabilities.
 
 ## 💡 Why BachCAN-Fuzzer Overdrive?
